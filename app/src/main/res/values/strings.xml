@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Task</string>
+    <string name="location_hint">City name</string>
+    <string name="city_name">City: %s</string>
+    <string name="city_region">Region: %s</string>
+    <string name="country">Country: %s</string>
+    <string name="weather_state">State of Weather: %s</string>
+    <string name="temp">Temp: %s</string>
+    <string name="feels_like">Feels Like: %s</string>
+    <string name="wind_speed">Wind Speed: %s</string>
+</resources>
